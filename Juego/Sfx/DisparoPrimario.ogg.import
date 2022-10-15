@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/DisparoPrimario.ogg-076f442be1dbcb80fcc265afb0c06db0.oggstr"
+
+[deps]
+
+source_file="res://Juego/Sfx/DisparoPrimario.ogg"
+dest_files=[ "res://.import/DisparoPrimario.ogg-076f442be1dbcb80fcc265afb0c06db0.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
